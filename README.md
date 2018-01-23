@@ -1,7 +1,7 @@
 # CSGO-Setup
 Some scripts to "automate" csgo server setup
 
-### Ce script à été crée pour être utilisé sur Ubuntu 15 et +
+### This script was created to be used on Ubuntu 15 et +
 
 ```shell
 ./install.sh
@@ -10,5 +10,5 @@ Some scripts to "automate" csgo server setup
 ```shell
 ./start.sh
 ```
-### Modifier le fichier config.sh pour les differents chemins / config serveur CSGO
+### Edit config.sh first !
 

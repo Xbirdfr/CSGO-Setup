@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Configuration
+# Config here first
 HOMEDIR="/root"
 SERVERDIR="$HOMEDIR/csgoserver"
 
